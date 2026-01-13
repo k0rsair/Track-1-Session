@@ -85,7 +85,6 @@ EVAL_EPISODES = 20           # Количество эпизодов для фи
 ```
 track1-session/
 ├── sample.ipynb              # Основной ноутбук с кодом
-├── requirements.txt           # Зависимости проекта
 ├── requirements_freeze.txt    # Зафиксированные версии пакетов
 ├── models/                    # Сохраненные модели
 │   ├── ppo_final.zip
